@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Alana
+🎓 Currently pursuing a degree in Systems Engineering  
+📊 Interested in Data Analysis and Software Development  
+🧪 Interested in Quality Assurance (QA) and Software Testing  
+📫 Connect with me
+LinkedIn: www.linkedin.com/in/alana-fernandeza
+Email: alanafernandez0120@gmail.com
 <!--
 **alanafdz88/alanafdz88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
