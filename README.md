@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Alana
-🎓 Currently pursuing a degree in Systems Engineering  
+🎓 Pursuing a degree in Systems Engineering  
 📊 Interested in Data Analysis and Software Development  
 📫 Connect with me
 LinkedIn: www.linkedin.com/in/alana-fernandeza
