@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Alana
 🎓 Pursuing a degree in Systems Engineering  
-📊 Interested in Data Analysis and Software Development  
+📊 Interested in Data Analysis and Networking  
 📫 Connect with me
 LinkedIn: www.linkedin.com/in/alana-fernandeza
 Email: alanafernandez0120@gmail.com
